@@ -1,5 +1,7 @@
 # transition state lake
 
+![A lake](img/lhamo-latso.jpg)
+
 In analogy to a "data lake," a bunch of transition-state structures that I've found over the years.
 
 These may be useful for various applications—benchmarking, studying reaction dynamics, and so on and so forth.
