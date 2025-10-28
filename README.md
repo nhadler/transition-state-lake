@@ -13,8 +13,8 @@ Where did these come from?
  - The structures in `xyzs/polycyclization` correspond to [this JACS paper](https://pubs.acs.org/doi/abs/10.1021/ja101256v?&) although these unpublished calculations were done by me, almost a decade after the paper was published.
  - The structures in `xyzs/Glycosylation` come from [this Nature paper](https://www.nature.com/articles/s41586-022-04958-w).
  - The structures in `xyzs/Pictet-Spengler` come from unpublished calculations I did in support of [this Nature paper](https://www.nature.com/articles/s41586-022-05263-2).
- - The structures in `xyzs/OCF3` and `xyzs/OxAdd`come from unpublished work I did in the Buchwald Group at MIT. 
-
+ - The structures in `xyzs/OCF3` and `xyzs/OxAdd`come from unpublished work I did in the Buchwald Group at MIT.
+ - The structures in `xyzs/noyori-literature` are generated from literature data by [@nhadler](https://github.com/nhadler).
 
 If this is used as a collective dataset, no itemized citation of the underlying work is necessary—these citations are simply provided for completeness.
 
