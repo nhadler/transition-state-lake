@@ -1,115 +1,215 @@
 xyz_path,route_card,charge,multiplicity,has_imaginary,imaginary_frequencies
-xyzs/Misc/glu_gluC6-BCDR-Na2_1Me2O-bisCF3-ts-mpw3pbe-631gd-pcm_thf.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman pop=none 6-31g* scrf=(pcm,solvent=tetrahydrofuran) mpw3pbe",0,1,True,-186.00
-xyzs/Misc/alkene_c2-2HCl_TS.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(smd,solvent=toluene)",0,1,True,-536.00
-xyzs/Misc/alkene_c3-1HCl_TS.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(smd,solvent=toluene)",0,1,True,-391.00
-xyzs/Misc/TS_benzo-syn-c1.xyz,"#p opt=(ts, calcfc, noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(smd,solvent=toluene) empiricaldispersion=gd3bj",1,1,True,-187.00
-xyzs/Misc/alkene_c3-2HCl_TS.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(smd,solvent=toluene)",0,1,True,-748.00
-xyzs/Misc/TS_benzo-anti-c1.xyz,"#p opt=(ts, calcfc, noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(smd,solvent=toluene) empiricaldispersion=gd3bj",1,1,True,-229.00
-xyzs/Misc/nocatalyst_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) empiricaldispersion=gd3bj",1,1,True,-20.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00025.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-128.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00045.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-223.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00050.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-147.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00052.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-231.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00043.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-154.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00060.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-175.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00011.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-128.00
-xyzs/polycyclization/pyrenyl_OMe_major_dft_c00014.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,True,-203.00
-xyzs/Glycosylation/pF_13ts2.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-136.00
-xyzs/Glycosylation/pF_12ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-138.00
-xyzs/Glycosylation/pF_13ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-143.00
-xyzs/Glycosylation/2Nap_12ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-119.00
-xyzs/Glycosylation/2Nap_13ts2.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-115.00
-xyzs/Glycosylation/Ph_13ts2.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-137.00
-xyzs/Glycosylation/Ph_12ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-134.00
-xyzs/Glycosylation/2Nap_13ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,True,-139.00
-xyzs/Prins/D_major_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(cpcm,solvent=toluene) pop=hirshfeld empiricaldispersion=gd3bj",0,1,True,-342.00
-xyzs/Prins/E_minor_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman pop=hirshfeld b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene)",0,1,True,-382.00
-xyzs/Prins/B_minor_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj pop=hirshfeld",0,1,True,-429.00
-xyzs/Prins/D_minor_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(cpcm,solvent=toluene) pop=hirshfeld empiricaldispersion=gd3bj",0,1,True,-423.00
-xyzs/Prins/E_major_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman pop=hirshfeld b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene)",0,1,True,-289.00
-xyzs/Prins/B_major_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj pop=hirshfeld",0,1,True,-176.00
-xyzs/Prins/A_minor_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene) pop=hirshfeld",0,1,True,-391.00
-xyzs/Prins/A_major_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene) pop=hirshfeld",0,1,True,-351.00
-xyzs/OCF3/tBuCPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-186.00
-xyzs/OCF3/dtBupf_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-388.00
-xyzs/OCF3/345CyJohnPhos_CF3_OPhNMe2_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-334.00
-xyzs/OCF3/HGPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-363.00
-xyzs/OCF3/PhCPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-352.00
-xyzs/OCF3/JohnPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-360.00
-xyzs/OCF3/MeJohnPhos_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-341.00
-xyzs/OCF3/4FJohnPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-357.00
-xyzs/OCF3/XP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-353.00
-xyzs/OCF3/XantPhos_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-373.00
-xyzs/OCF3/RuPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-359.00
-xyzs/OCF3/BINAP_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-401.00
-xyzs/OCF3/dppf_CF3_OPh_TS2.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-395.00
-xyzs/OCF3/dppBz_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-407.00
-xyzs/OCF3/4FJohnPhos_CF3_OPhNMe2_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-348.00
-xyzs/OCF3/XantPhos_CF3_OPh_TS4.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-375.00
-xyzs/OCF3/BrettPhos_CF3_OPh_TS2.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-363.00
-xyzs/OCF3/dppf_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-395.00
-xyzs/OCF3/diPrpf_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-392.00
-xyzs/OCF3/AlPhos_CF3_OPh_TS3.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-361.00
-xyzs/OCF3/diPrpf_CF3_OPh_TS2.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-389.00
-xyzs/OCF3/tBuCPhos_CF3_OPh_TS2.xyz,#p opt=modredundant freq=noraman b3lyp/genecp geom=connectivity,0,1,True,-332.00
-xyzs/OCF3/FLUORPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-402.00
-xyzs/OCF3/tBuCPhos_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-352.00
-xyzs/OCF3/PtBu3_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-334.00
-xyzs/OCF3/tBuXP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-354.00
-xyzs/OCF3/AdBP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-368.00
-xyzs/OCF3/BretPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-366.00
-xyzs/OCF3/35FJohnPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-355.00
-xyzs/OCF3/CyJohnPhos_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-349.00
-xyzs/OCF3/CypJohnPhos_TS3.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-349.00
-xyzs/OCF3/dppe_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-401.00
-xyzs/OCF3/CPhos_CF3_OPh_TS3.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-352.00
-xyzs/OCF3/CPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-352.00
-xyzs/OCF3/SEGPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-403.00
-xyzs/OCF3/AdCyBP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-364.00
-xyzs/OCF3/SEGPhos_CF3_OPh_TS3.xyz,#p freq=noraman b3lyp/genecp geom=connectivity,0,1,True,-403.00
-xyzs/OCF3/tBuBP_CF3_SPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-231.00
-xyzs/OCF3/RockPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-362.00
-xyzs/OCF3/DPEPhos_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,True,-390.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-917.00
-xyzs/Pictet-Spengler/Ph-tLeu-S-ArF_4FPh_6MeOTryp_OBz_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1296.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-926.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1159.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_RR_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1049.00
-xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-19.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_nPent_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1143.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1216.00
-xyzs/Pictet-Spengler/Ph-tLeu-S-ArF_4FPh_6MeOTryp_OBz_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1155.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_SR_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1224.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1053.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-969.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OBz_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1126.00
-xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1144.00
-xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1261.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OBz_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1281.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_nPent_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-919.00;-3.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1222.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1187.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_SS_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-887.00
-xyzs/Pictet-Spengler/Ph-tLeu-S-ArF_4FPh_6MeOTryp_OBz_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1289.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-997.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_RS_TS3_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-65.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OBz_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1156.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_RS_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1305.00
-xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1163.00
-xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1062.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-925.00
-xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,True,-1209.00
-xyzs/OxAdd/XPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-188.00
-xyzs/OxAdd/XPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-364.00
-xyzs/OxAdd/tBuBrettPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-356.00
-xyzs/OxAdd/RuPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-367.00
-xyzs/OxAdd/SPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-368.00
-xyzs/OxAdd/RuPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-175.00
-xyzs/OxAdd/SPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-176.00
-xyzs/OxAdd/BrettPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-78.00
-xyzs/OxAdd/BrettPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-359.00
-xyzs/OxAdd/XPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-81.00
-xyzs/OxAdd/BrettPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-177.00
-xyzs/OxAdd/SPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-79.00
-xyzs/OxAdd/tBuBrettPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-182.00
-xyzs/OxAdd/RuPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,True,-79.00
+xyzs/Misc/glu_gluC6-BCDR-Na2_1Me2O-bisCF3-ts-mpw3pbe-631gd-pcm_thf.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman pop=none 6-31g* scrf=(pcm,solvent=tetrahydrofuran) mpw3pbe",0,1,TRUE,-186
+xyzs/Misc/alkene_c2-2HCl_TS.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(smd,solvent=toluene)",0,1,TRUE,-536
+xyzs/Misc/alkene_c3-1HCl_TS.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(smd,solvent=toluene)",0,1,TRUE,-391
+xyzs/Misc/TS_benzo-syn-c1.xyz,"#p opt=(ts, calcfc, noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(smd,solvent=toluene) empiricaldispersion=gd3bj",1,1,TRUE,-187
+xyzs/Misc/alkene_c3-2HCl_TS.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(smd,solvent=toluene)",0,1,TRUE,-748
+xyzs/Misc/TS_benzo-anti-c1.xyz,"#p opt=(ts, calcfc, noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(smd,solvent=toluene) empiricaldispersion=gd3bj",1,1,TRUE,-229
+xyzs/Misc/nocatalyst_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) empiricaldispersion=gd3bj",1,1,TRUE,-20
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00025.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-128
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00045.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-223
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00050.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-147
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00052.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-231
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00043.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-154
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00060.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-175
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00011.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-128
+xyzs/polycyclization/pyrenyl_OMe_major_dft_c00014.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman m062x/6-31g(d)",0,1,TRUE,-203
+xyzs/Glycosylation/pF_13ts2.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-136
+xyzs/Glycosylation/pF_12ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-138
+xyzs/Glycosylation/pF_13ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-143
+xyzs/Glycosylation/2Nap_12ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-119
+xyzs/Glycosylation/2Nap_13ts2.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-115
+xyzs/Glycosylation/Ph_13ts2.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-137
+xyzs/Glycosylation/Ph_12ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-134
+xyzs/Glycosylation/2Nap_13ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman 6-31g(d) m062x",0,1,TRUE,-139
+xyzs/Prins/D_major_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(cpcm,solvent=toluene) pop=hirshfeld empiricaldispersion=gd3bj",0,1,TRUE,-342
+xyzs/Prins/E_minor_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman pop=hirshfeld b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene)",0,1,TRUE,-382
+xyzs/Prins/B_minor_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj pop=hirshfeld",0,1,TRUE,-429
+xyzs/Prins/D_minor_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen scrf=(cpcm,solvent=toluene) pop=hirshfeld empiricaldispersion=gd3bj",0,1,TRUE,-423
+xyzs/Prins/E_major_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman pop=hirshfeld b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene)",0,1,TRUE,-289
+xyzs/Prins/B_major_ts.xyz,"#p opt=(calcfc,ts,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj pop=hirshfeld",0,1,TRUE,-176
+xyzs/Prins/A_minor_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene) pop=hirshfeld",0,1,TRUE,-391
+xyzs/Prins/A_major_ts.xyz,"#p opt=(ts,calcfc,noeigentest,maxstep=5) freq=noraman b3lyp/gen empiricaldispersion=gd3bj scrf=(cpcm,solvent=toluene) pop=hirshfeld",0,1,TRUE,-351
+xyzs/OCF3/tBuCPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-186
+xyzs/OCF3/dtBupf_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-388
+xyzs/OCF3/345CyJohnPhos_CF3_OPhNMe2_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-334
+xyzs/OCF3/HGPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-363
+xyzs/OCF3/PhCPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-352
+xyzs/OCF3/JohnPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-360
+xyzs/OCF3/MeJohnPhos_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-341
+xyzs/OCF3/4FJohnPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-357
+xyzs/OCF3/XP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-353
+xyzs/OCF3/XantPhos_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-373
+xyzs/OCF3/RuPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-359
+xyzs/OCF3/BINAP_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-401
+xyzs/OCF3/dppf_CF3_OPh_TS2.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-395
+xyzs/OCF3/dppBz_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-407
+xyzs/OCF3/4FJohnPhos_CF3_OPhNMe2_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-348
+xyzs/OCF3/XantPhos_CF3_OPh_TS4.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-375
+xyzs/OCF3/BrettPhos_CF3_OPh_TS2.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-363
+xyzs/OCF3/dppf_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-395
+xyzs/OCF3/diPrpf_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-392
+xyzs/OCF3/AlPhos_CF3_OPh_TS3.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-361
+xyzs/OCF3/diPrpf_CF3_OPh_TS2.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-389
+xyzs/OCF3/tBuCPhos_CF3_OPh_TS2.xyz,#p opt=modredundant freq=noraman b3lyp/genecp geom=connectivity,0,1,TRUE,-332
+xyzs/OCF3/FLUORPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-402
+xyzs/OCF3/tBuCPhos_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-352
+xyzs/OCF3/PtBu3_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-334
+xyzs/OCF3/tBuXP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-354
+xyzs/OCF3/AdBP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-368
+xyzs/OCF3/BretPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-366
+xyzs/OCF3/35FJohnPhos_CF3_OPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-355
+xyzs/OCF3/CyJohnPhos_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-349
+xyzs/OCF3/CypJohnPhos_TS3.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-349
+xyzs/OCF3/dppe_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-401
+xyzs/OCF3/CPhos_CF3_OPh_TS3.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-352
+xyzs/OCF3/CPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-352
+xyzs/OCF3/SEGPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-403
+xyzs/OCF3/AdCyBP_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-364
+xyzs/OCF3/SEGPhos_CF3_OPh_TS3.xyz,#p freq=noraman b3lyp/genecp geom=connectivity,0,1,TRUE,-403
+xyzs/OCF3/tBuBP_CF3_SPh_TS.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-231
+xyzs/OCF3/RockPhos_CF3_OPh_TS2.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-362
+xyzs/OCF3/DPEPhos_CF3_OPh_TS3.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/genecp geom=connectivity",0,1,TRUE,-390
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-917
+xyzs/Pictet-Spengler/Ph-tLeu-S-ArF_4FPh_6MeOTryp_OBz_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1296
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-926
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1159
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_RR_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1049
+xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-19
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_nPent_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1143
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1216
+xyzs/Pictet-Spengler/Ph-tLeu-S-ArF_4FPh_6MeOTryp_OBz_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1155
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_SR_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1224
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1053
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-969
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OBz_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1126
+xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1144
+xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1261
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OBz_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1281
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_nPent_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-919.00;-3.00
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1222
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_SR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1187
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_SS_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-887
+xyzs/Pictet-Spengler/Ph-tLeu-S-ArF_4FPh_6MeOTryp_OBz_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1289
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-997
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_RS_TS3_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-65
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OBz_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1156
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_Cy_6MeOTryp_OAc_RS_TS2_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1305
+xyzs/Pictet-Spengler/Ph-Ala-S-ArF_4FPh_6MeOTryp_OBz_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1163
+xyzs/Pictet-Spengler/Ph-Val-S-ArF_4FPh_6MeOTryp_OAc_RR_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1062
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_nPent_6MeOTryp_OAc_SS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-925
+xyzs/Pictet-Spengler/Me2N-Val-S-Ph_Cy_6MeOTryp_OAc_RS_TS_b3lyp_631gd_pcm-PhMe.xyz,"#p opt=(ts,calcfc,noeigentest) freq=noraman b3lyp/6-31g(d) scrf=(pcm,solvent=toluene)",0,1,TRUE,-1209
+xyzs/OxAdd/XPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-188
+xyzs/OxAdd/XPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-364
+xyzs/OxAdd/tBuBrettPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-356
+xyzs/OxAdd/RuPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-367
+xyzs/OxAdd/SPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-368
+xyzs/OxAdd/RuPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-175
+xyzs/OxAdd/SPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-176
+xyzs/OxAdd/BrettPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-78
+xyzs/OxAdd/BrettPhos_PhNO2_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-359
+xyzs/OxAdd/XPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-81
+xyzs/OxAdd/BrettPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-177
+xyzs/OxAdd/SPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-79
+xyzs/OxAdd/tBuBrettPhos_PhCl_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-182
+xyzs/OxAdd/RuPhos_PhBr_TS_b3lyp_631gd.xyz,"#p opt=(calcfc,ts,noeigentest) freq=noraman b3lyp/genecp",0,1,TRUE,-79
+xys/noyori-literature/100165-88-6_111320-77-5_1193-18-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_148369-91-9_712-50-5.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_174636-94-3_158041-90-8.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_174636-94-3_160296-40-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_174636-94-3_32120-33-5.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_174636-94-3_930278-30-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_180305-85-5_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_29841-69-8_2142-68-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_35132-20-8_13395-71-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_3731-51-9_1660-04-4.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_466635-81-4_2979-69-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_851594-43-9_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/100165-88-6_874348-12-6_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1228758-57-3_20010-99-5_1610785-57-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1228758-57-3_578-66-5_53400-41-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/133545-17-2_148369-91-9_4173-44-8.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/135139-00-3_148369-91-9_133982-66-8.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/135139-00-3_148369-91-9_14901-07-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/135139-00-3_466635-81-4_529-34-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1351666-82-4_148369-91-9_102075-84-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1351666-82-4_148369-91-9_1261559-44-7.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1351666-82-4_148369-91-9_350838-31-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_111320-77-5_611-70-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_106161-87-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_129666-99-5.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_151323-99-8.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_1610785-57-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_502627-80-7.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_648929-17-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_648929-23-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_166764-19-8_734481-30-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_20439-47-8_122-57-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/137219-86-4_35132-20-8_445-27-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1400229-26-6_166764-19-8_79512-94-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/161265-03-8_1289556-78-0_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1613225-29-8_148369-91-9_1192-62-7.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/1613225-29-8_21436-03-3_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/166330-10-5_1190077-27-0_10345-87-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/166330-10-5_1190077-27-0_1620697-57-5.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/166330-10-5_1190077-27-0_57558-64-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/166330-10-5_1190077-27-0_943-88-4.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/166330-10-5_1289556-86-0_55543-90-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/186803-02-1_35132-20-8_611-70-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/186803-02-1_35132-20-8_6310-09-4.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/186803-02-1_35132-20-8_941-98-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/192463-40-4_35132-20-8_611-70-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/19845-69-3_1190077-27-0_55543-90-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/221012-82-4_35132-20-8_88-15-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/325168-88-5_35132-20-8_1009-14-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/325168-88-5_35132-20-8_17408-14-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/325168-88-5_69500-64-7_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/325168-89-6_148369-91-9_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/325168-89-6_29841-69-8_53400-41-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/328235-00-3_35132-20-8_93-55-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/328235-02-5_166764-19-8_943-27-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/328235-02-5_35132-20-8_122-00-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/358622-76-1_35132-20-8_941-98-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/362524-23-0_111320-77-5_611-70-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/37002-48-5_1280591-29-8_27628-06-4.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/37002-48-5_135875-04-6_32263-70-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/37002-48-5_5805-57-2_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/37002-48-5_59653-66-6_1610785-57-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/37002-48-5_712275-39-3_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/442905-33-1_35132-20-8_14309-57-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/442905-33-1_35132-20-8_350-03-8.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/442905-33-1_35132-20-8_772-31-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/443347-10-2_326596-48-9_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/486429-99-6_148369-91-9_244168-29-4.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/486429-99-6_29841-69-8_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/528521-88-2_29841-69-8_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/528521-89-3_35132-20-8_88-15-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/551950-92-6_166764-19-8_53400-41-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/551950-92-6_3731-51-9_3731-38-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/551950-92-6_504-29-0_1610785-57-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/6737-42-4_1289556-78-0_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/70223-77-7_20439-47-8_2142-68-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/70223-77-7_20439-47-8_611-70-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/70223-77-7_35132-20-8_93-55-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/728918-78-3_35132-20-8_943-27-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/728919-03-7_35132-20-8_99-91-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/728919-05-9_35132-20-8_941-98-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-55-4_148369-91-9_75251-98-8.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-55-4_171974-48-4_14901-07-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-55-4_20439-47-8_98-86-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-55-4_35132-20-8_100-06-1.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-56-5_148369-92-0_1009-14-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-56-5_466635-81-4_1590-08-5.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-56-5_59653-66-6_53400-41-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/76189-56-5_80297-84-3_3731-38-2.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/845821-92-3_29841-69-8_122-00-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/845821-96-7_29841-69-8_941-98-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/846606-46-0_166764-19-8_93-55-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/846606-46-0_35132-20-8_1333-52-4.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/846606-64-2_166764-19-8_941-98-0.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/846606-64-2_35132-20-8_3481-02-5.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/846606-71-1_166764-19-8_100-19-6.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/846606-71-1_35132-20-8_3506-36-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/850253-53-1_35132-20-8_2107318-86-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/99646-28-3_3731-51-9_2977-45-9.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
+xys/noyori-literature/99646-28-3_3731-51-9_727381-77-3.mol,GFN1-xTB/ALPB(iPrOH),0,1,FALSE,
